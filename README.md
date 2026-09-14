@@ -118,16 +118,6 @@ I am currently developing my knowledge in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Farhan6768&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan6768&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
