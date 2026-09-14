@@ -116,8 +116,6 @@ I am currently developing my knowledge in:
 
 ---
 
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
